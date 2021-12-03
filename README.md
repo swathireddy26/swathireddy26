@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SwathiReddy.
 - 👀 I’m interested in blockchain technology.
 - 🌱 I have hands on experince in building DApps (Decentralized Applications) on Ethereum blockchain
-- 💞️ I’m currently exploring more about blockchain technology and looking for oppurtunities to work on this domain.
 - 📫 You can reach me on: swathireddyg54@gmail.com
 
 <!---
