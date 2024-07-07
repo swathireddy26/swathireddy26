@@ -1,6 +1,6 @@
-- 👋 Hi, I’m SwathiReddy.
-- 👀 I’m interested in blockchain technology.
-- 🌱 I have hands on experince in building DApps (Decentralized Applications) on Ethereum blockchain
+- 👋 Hi, I’m Swathi Reddy
+- 👀 Blockchain enthusiast
+- 🌱 I have professional experience in building DApps (Decentralized Applications) on Ethereum, Starknet and Substrate framework.
 - 📫 You can reach me on: swathireddyg54@gmail.com
 
 <!---
