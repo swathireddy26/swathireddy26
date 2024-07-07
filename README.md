@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swathi Reddy
 - 👀 Blockchain enthusiast
-- 🌱 I have professional experience in building DApps (Decentralized Applications) on Ethereum, Starknet and Substrate framework.
+- 🌱 I have professional experience in building DApps on Ethereum, Starknet and Substrate framework.
 - 📫 You can reach me on: swathireddyg54@gmail.com
 
 <!---
